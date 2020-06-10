@@ -19,3 +19,30 @@
 [submodule "ruby_koans"]
 	path = ruby_koans
 	url = https://github.com/sguzman/ruby_koans
+[submodule "dart_koans"]
+	path = dart_koans
+	url = https://github.com/sguzman/dart_koans
+[submodule "javascript-koans"]
+	path = javascript-koans
+	url = https://github.com/sguzman/javascript-koans
+[submodule "Objective-C-Koans"]
+	path = Objective-C-Koans
+	url = https://github.com/sguzman/Objective-C-Koans
+[submodule "fp-course"]
+	path = fp-course
+	url = https://github.com/sguzman/fp-course
+[submodule "30-days-of-elixir"]
+	path = 30-days-of-elixir
+	url = https://github.com/sguzman/30-days-of-elixir
+[submodule "lua_missions"]
+	path = lua_missions
+	url = https://github.com/sguzman/lua_missions
+[submodule "MongoDB_Koans"]
+	path = MongoDB_Koans
+	url = https://github.com/sguzman/MongoDB_Koans
+[submodule "reactjs_koans"]
+	path = reactjs_koans
+	url = https://github.com/sguzman/reactjs_koans
+[submodule "gnu_smalltalk_koans"]
+	path = gnu_smalltalk_koans
+	url = https://github.com/sguzman/gnu_smalltalk_koans
