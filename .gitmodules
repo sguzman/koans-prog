@@ -61,3 +61,36 @@
 [submodule "scheme-koans"]
 	path = scheme-koans
 	url = https://github.com/sguzman/scheme-koans
+[submodule "elixir-koans"]
+	path = elixir-koans
+	url = https://github.com/sguzman/elixir-koans
+[submodule "ReactNativeKatas"]
+	path = ReactNativeKatas
+	url = https://github.com/sguzman/ReactNativeKatas
+[submodule "python_koans"]
+	path = python_koans
+	url = https://github.com/sguzman/python_koans
+[submodule "CppKoans"]
+	path = CppKoans
+	url = https://github.com/sguzman/CppKoans
+[submodule "c_koans"]
+	path = c_koans
+	url = https://github.com/sguzman/c_koans
+[submodule "julia_koans"]
+	path = julia_koans
+	url = https://github.com/sguzman/julia_koans
+[submodule "ocaml_koans"]
+	path = ocaml_koans
+	url = https://github.com/sguzman/ocaml_koans
+[submodule "crystal-koans"]
+	path = crystal-koans
+	url = https://github.com/sguzman/crystal-koans
+[submodule "factor-koans"]
+	path = factor-koans
+	url = https://github.com/sguzman/factor-koans
+[submodule "idris-koans"]
+	path = idris-koans
+	url = https://github.com/sguzman/idris-koans
+[submodule "DotNetKoans"]
+	path = DotNetKoans
+	url = https://github.com/sguzman/DotNetKoans
