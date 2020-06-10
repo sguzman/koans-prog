@@ -46,3 +46,18 @@
 [submodule "gnu_smalltalk_koans"]
 	path = gnu_smalltalk_koans
 	url = https://github.com/sguzman/gnu_smalltalk_koans
+[submodule "prolog-koans"]
+	path = prolog-koans
+	url = https://github.com/sguzman/prolog-koans
+[submodule "DLangKoans"]
+	path = DLangKoans
+	url = https://github.com/sguzman/DLangKoans
+[submodule "PSKoans"]
+	path = PSKoans
+	url = https://github.com/sguzman/PSKoans
+[submodule "kotlin-koans-edu"]
+	path = kotlin-koans-edu
+	url = https://github.com/sguzman/kotlin-koans-edu
+[submodule "scheme-koans"]
+	path = scheme-koans
+	url = https://github.com/sguzman/scheme-koans
