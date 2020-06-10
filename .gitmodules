@@ -4,3 +4,18 @@
 [submodule "clojure-koans"]
 	path = clojure-koans
 	url = https://github.com/sguzman/clojure-koans
+[submodule "FSharpKoans"]
+	path = FSharpKoans
+	url = https://github.com/sguzman/FSharpKoans
+[submodule "backbone-koans"]
+	path = backbone-koans
+	url = https://github.com/sguzman/backbone-koans
+[submodule "go-koans"]
+	path = go-koans
+	url = https://github.com/sguzman/go-koans
+[submodule "rust-koans"]
+	path = rust-koans
+	url = https://github.com/sguzman/rust-koans
+[submodule "ruby_koans"]
+	path = ruby_koans
+	url = https://github.com/sguzman/ruby_koans
