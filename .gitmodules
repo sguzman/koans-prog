@@ -1,0 +1,6 @@
+[submodule "lisp-koans"]
+	path = lisp-koans
+	url = https://github.com/sguzman/lisp-koans
+[submodule "clojure-koans"]
+	path = clojure-koans
+	url = https://github.com/sguzman/clojure-koans
